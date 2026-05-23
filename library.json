@@ -1,6 +1,6 @@
 {
     "name": "esp32-stb-image",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A lightweight, ESP32-friendly package of stb_image and stb_image_write.",
     "keywords": "image, jpeg, png, bmp, processing, esp32",
     "repository": {
